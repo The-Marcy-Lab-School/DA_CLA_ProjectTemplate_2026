@@ -8,6 +8,20 @@ It is not a completed project. Students should use this as a structure and think
 
 **THIS README IS NOT THE README YOU SHOULD HAVE FOR YOUR PROJECT.  THIS README IS FOR DIRECTIONS ONLY**
 
+## Important Note for Students
+
+This repository is a structure guide, not a completed capstone.
+
+Do not copy this project as your final submission.
+
+Your project must include:
+- your own stakeholder
+- your own dataset or data source
+- your own cleaning decisions
+- your own engineered features
+- your own model comparison
+- your own interpretation and recommendations
+
 ## Example Project Theme
 
 Example domain: NYC traffic safety  
