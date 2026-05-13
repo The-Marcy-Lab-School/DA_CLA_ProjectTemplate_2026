@@ -6,6 +6,8 @@ This repository is a template for organizing a six-week data analytics and machi
 
 It is not a completed project. Students should use this as a structure and thinking guide.
 
+**THIS README IS NOT THE README YOU SHOULD HAVE FOR YOUR PROJECT.  THIS README IS FOR DIRECTIONS ONLY**
+
 ## Example Project Theme
 
 Example domain: NYC traffic safety  
